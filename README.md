@@ -1,2 +1,2 @@
-# practice-deep-learning
+# deep-learning
 This repository is workbook for deep learning practice
