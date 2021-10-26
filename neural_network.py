@@ -39,4 +39,3 @@ def forward(network, x):
     y = softmax(a3)
 
     return y
-
