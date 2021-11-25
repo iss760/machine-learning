@@ -1,2 +1,2 @@
-# deep-learning
-This repository is workbook for deep learning practice
+# Machine-learning
+This repository is workbook for Machine-learning practice
